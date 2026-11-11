@@ -1,0 +1,22 @@
+destination,cost_multiplier,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec
+"Rajasthan (Jaipur, Udaipur, Jodhpur)",1,best,best,shoulder,avoid,avoid,avoid,shoulder,shoulder,shoulder,best,best,best
+"Agra (Taj Mahal)",0.95,best,best,shoulder,avoid,avoid,avoid,avoid,avoid,shoulder,best,best,best
+"Delhi",1.05,best,best,best,avoid,avoid,avoid,avoid,avoid,shoulder,best,shoulder,shoulder
+"Varanasi",0.85,best,best,best,shoulder,avoid,avoid,avoid,avoid,shoulder,best,best,best
+"Goa",1.15,best,best,shoulder,shoulder,avoid,avoid,avoid,avoid,avoid,shoulder,best,best
+"Kerala (Kochi, Munnar, Alleppey)",1,best,best,shoulder,shoulder,avoid,avoid,shoulder,shoulder,shoulder,best,best,best
+"Ladakh (Leh)",1.25,avoid,avoid,avoid,avoid,shoulder,best,best,best,best,shoulder,avoid,avoid
+"Spiti Valley",1,avoid,avoid,avoid,avoid,shoulder,best,best,best,best,shoulder,avoid,avoid
+"Manali",1,shoulder,shoulder,shoulder,best,best,best,avoid,avoid,shoulder,best,shoulder,shoulder
+"Shimla",1,shoulder,shoulder,best,best,best,best,avoid,avoid,shoulder,best,shoulder,shoulder
+"Rishikesh",0.85,shoulder,best,best,best,shoulder,avoid,avoid,avoid,shoulder,best,best,shoulder
+"Darjeeling",0.95,shoulder,shoulder,best,best,best,avoid,avoid,avoid,shoulder,best,best,shoulder
+"Sikkim (Gangtok)",1.05,shoulder,shoulder,best,best,best,avoid,avoid,avoid,shoulder,best,best,shoulder
+"Meghalaya (Shillong, Cherrapunji)",0.95,best,best,best,best,shoulder,shoulder,shoulder,shoulder,shoulder,best,best,best
+"Kashmir (Srinagar, Gulmarg)",1.1,shoulder,shoulder,best,best,best,best,best,best,best,best,shoulder,shoulder
+"Andaman Islands",1.3,best,best,best,best,shoulder,avoid,avoid,avoid,avoid,shoulder,best,best
+"Hampi",0.8,best,best,shoulder,avoid,avoid,avoid,shoulder,shoulder,shoulder,best,best,best
+"Mumbai",1.2,best,best,shoulder,avoid,avoid,avoid,avoid,avoid,shoulder,shoulder,best,best
+"Kolkata",0.9,best,best,shoulder,avoid,avoid,avoid,avoid,avoid,shoulder,best,best,best
+"Amritsar",0.85,shoulder,best,best,shoulder,avoid,avoid,avoid,avoid,shoulder,best,best,shoulder
+"Ooty",0.95,shoulder,shoulder,best,best,best,shoulder,avoid,avoid,shoulder,best,shoulder,shoulder

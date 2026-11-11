@@ -1,0 +1,16 @@
+tier,item,min_inr_per_day,max_inr_per_day
+backpacker,stay,800,1500
+backpacker,food,500,800
+backpacker,local,300,600
+backpacker,fun,200,500
+backpacker,leg,600,1200
+mid,stay,2500,5000
+mid,food,1200,2000
+mid,local,1000,2000
+mid,fun,500,1500
+mid,leg,2000,4500
+luxury,stay,10000,25000
+luxury,food,3000,6000
+luxury,local,3000,6000
+luxury,fun,2000,5000
+luxury,leg,5000,12000
